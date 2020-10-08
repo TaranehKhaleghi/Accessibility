@@ -1,0 +1,1055 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+<meta name="description" content="Expert tips from the Heart and Stroke Foundation on how to eat at home as part of a heart-healthy diet." />
+<meta name="keywords" content="Shopping, healthy eating, healthy eating how-to, eat healthy, shop" />
+<meta property="og:title" content="Eating at home" />
+<meta property="og:description" content="Expert tips from the Heart and Stroke Foundation on how to eat at home as part of a heart-healthy diet." />
+<meta property="og:type" content="website" />
+    <meta property="og:image" content="https://heartstrokeprod.azureedge.net/-/media/images/get-healthy/family-at-home-preparing-meal-in-kitchen-together-picture-.ashx?rev=13e779957fbb4efab5ad7c82aa5d7e7e" />
+<meta property="og:url" content="https://www.heartandstroke.ca/en/healthy-living/healthy-eating/eating-at-home/" />
+<meta property="og:site_name" content="Heart and Stroke Foundation of Canada" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@TheHSF" />
+<meta name="twitter:title" content="Eating at home" />
+<meta name="twitter:description" content="Expert tips from the Heart and Stroke Foundation on how to eat at home as part of a heart-healthy diet." />
+    <meta name="twitter:image" content="https://heartstrokeprod.azureedge.net/-/media/images/get-healthy/family-at-home-preparing-meal-in-kitchen-together-picture-.ashx?rev=13e779957fbb4efab5ad7c82aa5d7e7e" />
+
+<!-- Facebook -->
+<meta property="fb:app_id" content="812679369080029" />
+<script>
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId: '812679369080029',
+                xfbml: true,
+                version: 'v2.9'
+            });
+            FB.AppEvents.logPageView();
+        };
+
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {
+                return;
+            }
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<!--Pinterest -->
+<meta name="p:domain_verify" content="b7188b92fab0277a54b16e3f0f2eddc9" />
+    <title>Eating at home | Heart and Stroke Foundation</title>
+        <link href="/public/styles/main.css?hash=6f6ba08afa2c544edbe90199d186cb04" rel="stylesheet" />
+        <link href="/public/styles/sl-main.css?hash=df98985e32693acc4f8a102a53f9a47b" rel="stylesheet" />
+        <link rel="stylesheet" media="print" href="/public/styles/main_print.css?hash=e804d15e3abed7787a46a21740474c81" />
+
+<script>
+	// DataLayer initialization for use with GTM API
+    dataLayer = [{"page":{"template":"GenericPage","language":"en","updatedDate":"6/4/2020","createdDate":"10/31/2016","title":"Eating at home","navigationLabel":"Eating at home","keywords":"Shopping, healthy eating, healthy eating how-to, eat healthy, shop","publicationDate":"","articleType":"Health info","groups":"Health seekers","authors":"","sponsor":""},"sitecoreData":{"page":{"interest":"Healthy living","knowledgeLevel":"Novice","constituentType":"General"},"user":{"sitecoreProfileId":"0e84399e-3eb4-4570-95a4-c042d2ecd006","valueTotal":0,"numberOfVisits":1,"lastInteractionDate":"10/8/2020 9:05:15 PM","lastInteractionLocation":"N/A N/A CA","crmId":null,"campaigns":null,"mostRecentCampaign":null,"constituentType":{"key":"general","score":10.0},"knowledgeLevel":{"key":"novice","score":10.0},"interest":{"key":"healthy living","score":10.0}}}}];
+</script>
+<!-- Google Optimize -->
+<style>
+    .async-hide {
+        opacity: 0 !important
+    }
+</style>
+<script>
+(function (a, s, y, n, c, h, i, d, e) {
+    s.className += ' ' + y; h.start = 1 * new Date;
+        h.end = i = function () { s.className = s.className.replace(RegExp(' ?' + y), '') };
+        (a[n] = a[n] || []).hide = h; setTimeout(function () { i(); h.end = null }, c); h.timeout = c;
+    })(window, document.documentElement, 'async-hide', 'dataLayer', 4000,
+        { 'GTM-WHMKBVF': true });</script>
+<script>
+    (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-211566-55', 'auto');
+    ga('require', 'GTM-WHMKBVF');
+    ga(function (tracker) {
+        window.dataLayer.push({
+            'event': 'gaTrackerReady',
+            'gaClientId': tracker.get('clientId')
+        });
+    });
+</script>
+<!-- End Google Optimize -->
+<!-- Google Tag Manager -->
+<script>
+(function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-PK2CF4');</script>
+<!-- End Google Tag Manager -->    <link rel="canonical" href="https://www.heartandstroke.ca/healthy-living/healthy-eating/eating-at-home">
+    <link rel="alternate" href="https://www.heartandstroke.ca/healthy-living/healthy-eating/eating-at-home" hreflang="en" />
+    <link rel="alternate" href="https://www.coeuretavc.ca/vivez-sainement/saine-alimentation/manger-a-la-maison" hreflang="fr" />
+
+    
+<meta name="VIcurrentDateTime" content="637377879157482032" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+</head>
+<body class="hsf-site ">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PK2CF4" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+
+<header id="site-header" class="site-header" data-gtm-section="Header">
+    <the-site-header inline-template>
+        <div @keydown.esc="closeAll">
+            <a class="site-header__skip button"
+               href="#main-content">Skip to content</a>
+
+<div class="site-header__container site-header__container--top-nav container-fluid" data-gtm-section="Eyebrow Menu">
+    <ul class="site-header__topnav">
+                <li class="site-header__item site-header__item--topnav">
+                    <a class="site-header__link site-header__link--topnav  "
+                       
+                       href="https://www.heartandstroke.ca/heart-disease/emergency-signs">
+                            <div class="icon">
+                                <img src="https://heartstrokeprod.azureedge.net/-/media/sites/hsf/configuration/icon-warning.ashx?rev=a0cc0c354daf4e11bdbce4391129cb14&amp;hash=D12593912976DFA2A4E2E5F03AC9F461" alt="warning">
+                            </div>
+                        <span>
+                            Emergency signs
+                        </span>
+                    </a>
+                </li>
+                <li class="site-header__item site-header__item--topnav">
+                    <a class="site-header__link site-header__link--topnav  "
+                       
+                       href="https://www.heartandstroke.ca/how-you-can-help/learn-cpr">
+                            <div class="icon">
+                                <img src="https://heartstrokeprod.azureedge.net/-/media/sites/hsf/configuration/icon-heartbeat.ashx?rev=2bebd52bdfd7487286ffd815e17ec0c5&amp;hash=D2B647C5639598DE5047371D4CBAA7DE" alt="heartbeat">
+                            </div>
+                        <span>
+                            CPR training
+                        </span>
+                    </a>
+                </li>
+                <li class="site-header__item site-header__item--topnav">
+                    <a class="site-header__link site-header__link--topnav  "
+                       
+                       href="https://www.heartandstroke.ca/what-we-do/for-professionals">
+                            <div class="icon">
+                                <img src="https://heartstrokeprod.azureedge.net/-/media/sites/hsf/configuration/icon-cross.ashx?rev=50b599da05f34e08912886a52b54320d&amp;hash=F237098F86D3724D560175A2EF1038A7" alt="cross">
+                            </div>
+                        <span>
+                            For professionals
+                        </span>
+                    </a>
+                </li>
+    </ul>
+</div>
+            <div class="site-header__container container-fluid"
+                 :class="[{ 'has-second-open': openedSubmenu !== null }, { 'has-first-open': isMenuOpened }]">
+                <div class="site-header__wrapper">
+                    <div :tabindex="isMenuOpened && isMobile ? 0 : -1" class="sr-only" @focus="focusLastVisibleMenuItem"></div>
+                    <a class="site-header__logo"
+                       ref="logo"
+                       :class="{ 'is-opened': isMenuOpened }"
+                       href="/">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240.3 38.2">
+              <g fill="#de1c1d">
+                <path d="M39.9 3.4c-5-4.8-13-4.3-18 .3-5.1-4.6-13.1-5-18-.3C1.3 5.9 0 9.3 0 12.9c0 13.7 20.7 24.9 21.8 24.9s21.8-11.2 21.8-24.9c.1-3.6-1.3-7-3.7-9.5M50.4 37.7H38.7L59.8 1.1h11.7L50.4 37.7z"/>
+              </g>
+              <g class="site-header__logo-text">
+                <path d="M65.927 19.316h5.4v6.7h5.6v-6.7h5.4v18.4h-5.4v-7.2h-5.6v7.2h-5.4v-18.4zM83.427 31.116c-.1-3.7 2.8-6.8 6.5-7h.5c1.8-.1 3.5.6 4.8 1.8 1.6 1.7 2.5 4 2.3 6.4h-9.4c.3 1.5 1.1 2.4 2.6 2.4.7.1 1.5-.3 1.8-1h4.7c-.4 1.3-1.3 2.5-2.5 3.2-1.3.8-2.7 1.2-4.2 1.1-4.3.1-7.1-2.9-7.1-6.9m4.7-1.3h4.5c-.2-1.5-1-2.3-2.2-2.3-1.3-.1-2 .8-2.3 2.3M106.127 36.316c-1 1.2-2.5 1.9-4 1.8-2.5 0-4.4-1.4-4.4-3.9 0-2.9 2.2-3.8 4.8-4 2.8-.3 3.5-.6 3.5-1.5 0-.7-.3-1.3-1.4-1.3-.9-.1-1.7.6-1.7 1.5v.1h-4.6c.1-2.6 2.1-4.7 6.2-4.7 1.5-.1 3 .2 4.3.9 1.3.8 2.1 2.4 2 3.9v6.6c0 1.1.1 1.7.5 2v.2h-4.8c-.2-.6-.4-1.1-.4-1.6m0-3.3v-1.2c-.6.3-1.2.5-1.9.6-1.4.3-1.9.7-1.9 1.5 0 .9.7 1.3 1.5 1.3 1.1.1 2.1-.8 2.2-1.9.1-.1.1-.2.1-.3M116.927 26.616c.9-1.4 2.4-2.3 4.1-2.3.3 0 .5 0 .8.1v4.1h-.1c-2.9-.5-4.5.8-4.5 3.8v5.4h-4.9v-13.1h4.6v2zM122.027 24.616h1.7v-4.2h4.8v4.2h2.5v2.9h-2.5v5.3c0 1.3.9 1.3 2.4 1.2v3.6c-.8.2-1.6.3-2.4.3-3.2 0-4.8-.9-4.8-4v-6.4h-1.7v-2.9zM131.527 32.316c0-3 2-4.4 4.1-5.3-.8-.9-1.3-2.1-1.3-3.3 0-2.7 2-4.7 5.6-4.7 3.2 0 5.6 1.7 5.6 4.6 0 2.4-1.7 3.6-3.6 4.4l2 2.4c.3-.5.5-1.1.7-1.7h4.2c-.3 1.8-1.1 3.4-2.3 4.8l3.4 4.1h-6l-.8-1.1c-1.4.9-3 1.3-4.6 1.3-4.5.2-7-2.3-7-5.5m9.2 1.3l-2.8-3.7c-.9.4-1.4 1.3-1.4 2.3 0 1.1.9 1.9 1.9 1.9h.3c.7 0 1.4-.2 2-.5m-.8-7.9c.8-.3 1.4-1.1 1.4-2 0-.7-.5-1.3-1.2-1.4h-.1c-.7 0-1.3.5-1.3 1.1v.2c.1.9.5 1.6 1.2 2.1" fill="#fff"/>
+                <path d="M148.827 31.916h5.5c.2 1.5 1.3 2.2 3.1 2.2 1.1 0 2.3-.4 2.3-1.5s-1.2-1.4-3.5-2c-3.1-.8-6.8-1.8-6.8-5.7.1-4.3 3.5-5.9 7.6-5.9 3.8 0 7.3 1.6 7.4 5.6h-5.3c-.2-1-.9-1.6-2.3-1.6-1.2 0-2 .5-2 1.3 0 1.1 1.6 1.2 4.3 1.9 3.1.7 6.2 2 6.2 5.9 0 4-3.6 6.1-7.9 6.1-4.9-.1-8.5-2.1-8.6-6.3M165.127 24.616h1.7v-4.2h4.8v4.2h2.5v2.9h-2.5v5.3c0 1.3.9 1.3 2.4 1.2v3.6c-.8.2-1.6.3-2.4.3-3.2 0-4.8-.9-4.8-4v-6.4h-1.7v-2.9zM179.527 26.616c.9-1.4 2.4-2.3 4.1-2.3.3 0 .5 0 .8.1v4.1h-.1c-2.9-.5-4.5.8-4.5 3.8v5.4h-4.9v-13.1h4.6v2zM184.427 31.216c0-4 2.8-7 7.2-7 3.7-.2 6.9 2.6 7.1 6.3v.7c0 4-2.8 6.9-7.1 6.9s-7.2-2.9-7.2-6.9m9.4 0c0-2.2-.8-3.7-2.3-3.7s-2.2 1.5-2.2 3.7.7 3.7 2.2 3.7 2.3-1.5 2.3-3.7M205.327 33.016l-1 1.1v3.6h-4.8v-18.4h4.8v9.2l3.2-3.9h5.4l-4.4 4.8 4.9 8.3h-5.5l-2.6-4.7z" fill="#fff"/>
+                <path d="M212.227 31.116c-.1-3.7 2.8-6.8 6.5-7h.5c1.8-.1 3.5.6 4.8 1.8 1.6 1.7 2.5 4 2.3 6.4h-9.4c.3 1.5 1.1 2.4 2.6 2.4.7.1 1.5-.3 1.8-1h4.7c-.4 1.3-1.3 2.5-2.5 3.2-1.3.8-2.7 1.2-4.2 1.1-4.2.1-7-2.9-7.1-6.9m4.8-1.3h4.5c-.2-1.5-1-2.3-2.2-2.3-1.3-.1-2 .8-2.3 2.3M228.927 31.716h4.9v1h-1.8v5h-1.2v-5h-1.9v-1zM234.327 31.716h1.7l.9 3 .4 1.6s.2-.9.4-1.6l.9-3h1.8v6.1h-1.1v-3.5c0-.5.1-1.3.1-1.3s-.1.7-.3 1.2l-1 3.6h-1.2l-1-3.6-.3-1.2v4.8h-1.1l-.2-6.1z" fill="#fff"/>
+              </g>
+              <g class="site-header__logo-tm">
+                <path d="M57.527 31.716h4.9v1h-1.8v5h-1.2v-5h-1.8v-1zM62.827 31.716h1.7l.9 3 .4 1.6s.2-.9.4-1.6l.9-3h1.8v6.1h-1.3v-3.5c0-.5.1-1.3.1-1.3s-.1.7-.3 1.2l-1 3.6h-1.2l-1-3.6c-.2-.5-.3-1.2-.3-1.2v4.8h-1.1v-6.1z" fill="#de1c1d"/></g></svg>
+            
+                    </a>
+                    <button ref="back"
+                            class="site-header__button site-header__button--back site-header__button--mobile"
+                            type="button"
+                            @click="closeSubmenu"
+                            @keydown.shift.tab="focusLastVisibleMenuItem">
+                        <div class="icon icon--x-small">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8.575 15.15"><path data-name="Tracé 670" stroke="#241e1e" d="M7.163 1.414l-6.161 6.16 6.161 6.162" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity=".752" /></svg>
+                        </div>
+                        <span>Back</span>
+                    </button>
+                    <button ref="menuToggle"
+                            aria-controls="site-header__menu"
+                            :aria-expanded="isMenuOpened"
+                            aria-haspopup="true"
+                            class="hamburger site-header__button site-header__button--menu site-header__button--mobile"
+                            :class="{'is-open': isMenuOpened}"
+                            type="button"
+                            @click="toggleMenu">
+                        <div class="hamburger__inner">
+                            <span aria-hidden="true" class="hamburger__line"></span>
+                            <span aria-hidden="true" class="hamburger__line hamburger__line--two"></span>
+                            <span class="hamburger__text" v-text="isMenuOpened ? 'Close' : 'Menu'"></span>
+                        </div>
+                    </button>
+                </div>
+                <div class="site-header__search-wrapper">
+
+<form id="site-header__search"
+      class="site-header__search"
+      :class="[{'is-focused' : isSearchFocused }, {'has-value' : search !== ''}]"
+      action="https://www.heartandstroke.ca/search-results-page"
+      role="search"
+      method="get">
+    <div class="control">
+        <div class="control__group">
+            <label class="sr-only"
+                   for="site-header__search__input">Search</label>
+                <button type="button"
+                        class="site-header__button site-header__search-back"
+                        aria-label="Close"
+                        @click="removeSearchFocus"
+                        @focus="isFocusingSearch"
+                        @blur="isBlurringSearch">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.7 6.9"><path d="M5.9 6.9c-.3 0-.5-.1-.7-.3L.3 1.7C-.1 1.3-.1.7.3.3s1-.4 1.4 0l4.1 4.2L10 .3c.4-.4 1-.4 1.4 0s.4 1 0 1.4L6.6 6.6c-.2.2-.5.3-.7.3z"/></svg>
+                </button>
+                <input @focus="isFocusingSearch"
+                       @blur="isBlurringSearch"
+                       id="site-header__search__input"
+                       v-model="search"
+                       name="q"
+                       ref="searchInput"
+                       class="control__input site-header__search-input"
+                       autocomplete="off"
+                       size="10"
+                       placeholder="Search"
+                       type="text"
+                       :tabindex="isMenuOpened || openedSubmenu !== null ? -1 : 0">
+                <button class="site-header__search-btn"
+                        type="button"
+                        :tabindex="-1">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.622 18.622"><g data-name="Ellipse 1" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"><circle cx="7.473" cy="7.473" stroke="none" r="7.473" /><circle cx="7.473" cy="7.473" r="6.473" /></g><path data-name="Ligne 3461" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M12.561 12.561l4.648 4.648" /></svg>
+                </button>
+                <button type="button"
+                        class="site-header__button site-header__search-clear"
+                        @click="clearSearch"
+                        @focus="isFocusingSearch"
+                        @blur="isBlurringSearch">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><g transform="translate(-621 -33)"><circle data-name="Ellipse 1755" cx="11" cy="11" r="11" transform="translate(621 33)" fill="#d6d6d6" /><path data-name="Ligne 3643" fill="none" stroke="#000" stroke-width="1.5" d="M627.791 48.415l8.123-8.123" /><path data-name="Ligne 3644" fill="none" stroke="#000" stroke-width="1.5" d="M635.914 48.415l-8.123-8.123" /></g></svg>
+                </button>
+            </div>
+        </div>
+    </form>
+
+                        <a class="site-header__button site-header__button--donate"
+                           href="https://hsf.donorportal.ca/Donation/Donation.aspx?F=1773&amp;T=GENER&amp;L=en-CA&amp;G=328&amp;NFP=1&amp;cscid=hsweb_hswebsite_navbar_GENen&amp;scanline=no&amp;CURL=hsweb&amp;_ga=2.133577230.1096633295.1601300594-1331556318.1585684260"
+                           target="_blank"
+                           :tabindex="isMenuOpened || openedSubmenu !== null ? -1 : 0"
+                           data-gtm-cta="Donate">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.26 16.647"><path data-name="Tracé 668" d="M17.591 1.495a5.9 5.9 0 00-7.961.109 5.9 5.9 0 00-7.961-.109 6.022 6.022 0 00-1.668 4.18c0 6.03 9.113 10.972 9.63 10.972s9.63-4.933 9.63-10.972a6.036 6.036 0 00-1.668-4.18" fill="#fff" /></svg>                            <span>Donate</span>
+                        </a>
+                </div>
+
+<nav aria-label="Main" class="site-header__navigation" data-gtm-section="Main Menu">
+    <ul id="site-header__menu"
+        class="site-header__menu"
+        :class="{ 'is-opened': isMenuOpened }">
+            <li class="site-header__item site-header__item--first-level">
+                    <button aria-controls="a4F27919FC4B04C40B2200ABF534995CE-submenu"
+                            :aria-expanded="openedSubmenu === 'a4F27919FC4B04C40B2200ABF534995CE'"
+                            aria-haspopup="true"
+                            class="site-header__button site-header__button--submenu"
+                            :class="{'has-other-opened' : openedSubmenu !== null && openedSubmenu !== 'a4F27919FC4B04C40B2200ABF534995CE'}"
+                            :tabindex="openedSubmenu !== null ? -1 : 0"
+                            @click="toggleSubmenu('a4F27919FC4B04C40B2200ABF534995CE')">
+                        <span class="site-header__button-text">Heart disease</span>
+                        <svg class="site-header__button-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.7 6.9"><path d="M5.9 6.9c-.3 0-.5-.1-.7-.3L.3 1.7C-.1 1.3-.1.7.3.3s1-.4 1.4 0l4.1 4.2L10 .3c.4-.4 1-.4 1.4 0s.4 1 0 1.4L6.6 6.6c-.2.2-.5.3-.7.3z" /></svg>
+                    </button>
+                    <ul id="a4F27919FC4B04C40B2200ABF534995CE-submenu"
+                        class="site-header__submenu"
+                        :class="[{ 'is-opened': openedSubmenu === 'a4F27919FC4B04C40B2200ABF534995CE' }, {'is-truncated' : openedSubmenu && validateSubmenuWidth('a4F27919FC4B04C40B2200ABF534995CE') }]">
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/heart-disease" class="site-header__link site-header__link--second-level">Heart disease</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/heart-disease/what-is-heart-disease" class="site-header__link site-header__link--second-level">What is heart disease?</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/heart-disease/emergency-signs" class="site-header__link site-header__link--second-level">Signs of a heart attack</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/heart-disease/conditions" class="site-header__link site-header__link--second-level">Heart conditions (A-Z)</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/heart-disease/tests" class="site-header__link site-header__link--second-level">Tests (A-Z)</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/heart-disease/treatments" class="site-header__link site-header__link--second-level">Treatments</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/heart-disease/risk-and-prevention" class="site-header__link site-header__link--second-level">Risk and prevention</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/heart-disease/recovery-and-support" class="site-header__link site-header__link--second-level">Recovery and support</a>
+                                </li>
+                        
+                        <li class="sr-only-focusable"
+                            :tabindex="0"
+                            @focus="focusFirstVisibleMenuItem">
+                        </li>
+                        
+                    </ul>
+            </li>
+            <li class="site-header__item site-header__item--first-level">
+                    <button aria-controls="a1A8035D414534F9EBB15C00E46AAA1BA-submenu"
+                            :aria-expanded="openedSubmenu === 'a1A8035D414534F9EBB15C00E46AAA1BA'"
+                            aria-haspopup="true"
+                            class="site-header__button site-header__button--submenu"
+                            :class="{'has-other-opened' : openedSubmenu !== null && openedSubmenu !== 'a1A8035D414534F9EBB15C00E46AAA1BA'}"
+                            :tabindex="openedSubmenu !== null ? -1 : 0"
+                            @click="toggleSubmenu('a1A8035D414534F9EBB15C00E46AAA1BA')">
+                        <span class="site-header__button-text">Stroke</span>
+                        <svg class="site-header__button-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.7 6.9"><path d="M5.9 6.9c-.3 0-.5-.1-.7-.3L.3 1.7C-.1 1.3-.1.7.3.3s1-.4 1.4 0l4.1 4.2L10 .3c.4-.4 1-.4 1.4 0s.4 1 0 1.4L6.6 6.6c-.2.2-.5.3-.7.3z" /></svg>
+                    </button>
+                    <ul id="a1A8035D414534F9EBB15C00E46AAA1BA-submenu"
+                        class="site-header__submenu"
+                        :class="[{ 'is-opened': openedSubmenu === 'a1A8035D414534F9EBB15C00E46AAA1BA' }, {'is-truncated' : openedSubmenu && validateSubmenuWidth('a1A8035D414534F9EBB15C00E46AAA1BA') }]">
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/stroke" class="site-header__link site-header__link--second-level">Stroke</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/stroke/what-is-stroke" class="site-header__link site-header__link--second-level">What is stroke?</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/stroke/signs-of-stroke" class="site-header__link site-header__link--second-level">Signs of stroke</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/stroke/treatments" class="site-header__link site-header__link--second-level">Treatments</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/stroke/risk-and-prevention" class="site-header__link site-header__link--second-level">Risk and prevention</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/stroke/recovery-and-support" class="site-header__link site-header__link--second-level">Recovery and support</a>
+                                </li>
+                        
+                        <li class="sr-only-focusable"
+                            :tabindex="0"
+                            @focus="focusFirstVisibleMenuItem">
+                        </li>
+                        
+                    </ul>
+            </li>
+            <li class="site-header__item site-header__item--first-level">
+                    <button aria-controls="a637F54263FB947809B5F8CB3BB71330F-submenu"
+                            :aria-expanded="openedSubmenu === 'a637F54263FB947809B5F8CB3BB71330F'"
+                            aria-haspopup="true"
+                            class="site-header__button site-header__button--submenu"
+                            :class="{'has-other-opened' : openedSubmenu !== null && openedSubmenu !== 'a637F54263FB947809B5F8CB3BB71330F'}"
+                            :tabindex="openedSubmenu !== null ? -1 : 0"
+                            @click="toggleSubmenu('a637F54263FB947809B5F8CB3BB71330F')">
+                        <span class="site-header__button-text">Healthy living</span>
+                        <svg class="site-header__button-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.7 6.9"><path d="M5.9 6.9c-.3 0-.5-.1-.7-.3L.3 1.7C-.1 1.3-.1.7.3.3s1-.4 1.4 0l4.1 4.2L10 .3c.4-.4 1-.4 1.4 0s.4 1 0 1.4L6.6 6.6c-.2.2-.5.3-.7.3z" /></svg>
+                    </button>
+                    <ul id="a637F54263FB947809B5F8CB3BB71330F-submenu"
+                        class="site-header__submenu"
+                        :class="[{ 'is-opened': openedSubmenu === 'a637F54263FB947809B5F8CB3BB71330F' }, {'is-truncated' : openedSubmenu && validateSubmenuWidth('a637F54263FB947809B5F8CB3BB71330F') }]">
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/healthy-living" class="site-header__link site-header__link--second-level">Healthy living</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/healthy-living/recipes" class="site-header__link site-header__link--second-level">Recipes</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/healthy-living/healthy-eating" class="site-header__link site-header__link--second-level">Healthy eating</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/healthy-living/healthy-weight" class="site-header__link site-header__link--second-level">Healthy weight</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/healthy-living/stay-active" class="site-header__link site-header__link--second-level">Stay active</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/healthy-living/reduce-stress" class="site-header__link site-header__link--second-level">Reduce stress</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/healthy-living/healthy-kids" class="site-header__link site-header__link--second-level">Healthy kids</a>
+                                </li>
+                        
+                        <li class="sr-only-focusable"
+                            :tabindex="0"
+                            @focus="focusFirstVisibleMenuItem">
+                        </li>
+                        
+                    </ul>
+            </li>
+            <li class="site-header__item site-header__item--first-level">
+                    <button aria-controls="aA48176199B3745B48542B7801543D023-submenu"
+                            :aria-expanded="openedSubmenu === 'aA48176199B3745B48542B7801543D023'"
+                            aria-haspopup="true"
+                            class="site-header__button site-header__button--submenu"
+                            :class="{'has-other-opened' : openedSubmenu !== null && openedSubmenu !== 'aA48176199B3745B48542B7801543D023'}"
+                            :tabindex="openedSubmenu !== null ? -1 : 0"
+                            @click="toggleSubmenu('aA48176199B3745B48542B7801543D023')">
+                        <span class="site-header__button-text">What we do</span>
+                        <svg class="site-header__button-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.7 6.9"><path d="M5.9 6.9c-.3 0-.5-.1-.7-.3L.3 1.7C-.1 1.3-.1.7.3.3s1-.4 1.4 0l4.1 4.2L10 .3c.4-.4 1-.4 1.4 0s.4 1 0 1.4L6.6 6.6c-.2.2-.5.3-.7.3z" /></svg>
+                    </button>
+                    <ul id="aA48176199B3745B48542B7801543D023-submenu"
+                        class="site-header__submenu"
+                        :class="[{ 'is-opened': openedSubmenu === 'aA48176199B3745B48542B7801543D023' }, {'is-truncated' : openedSubmenu && validateSubmenuWidth('aA48176199B3745B48542B7801543D023') }]">
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/what-we-do" class="site-header__link site-header__link--second-level">What we do</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/what-we-do/research" class="site-header__link site-header__link--second-level">Research</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/what-we-do/finances/where-every-dollar-goes" class="site-header__link site-header__link--second-level">Where every dollar goes</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/what-we-do/our-impact/our-story" class="site-header__link site-header__link--second-level">Our story</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/what-we-do/our-impact" class="site-header__link site-header__link--second-level">Our impact</a>
+                                </li>
+                        
+                        <li class="sr-only-focusable"
+                            :tabindex="0"
+                            @focus="focusFirstVisibleMenuItem">
+                        </li>
+                        
+                    </ul>
+            </li>
+            <li class="site-header__item site-header__item--first-level">
+                    <button aria-controls="aD311A6FA5EF54542B9E695D4BAE6610B-submenu"
+                            :aria-expanded="openedSubmenu === 'aD311A6FA5EF54542B9E695D4BAE6610B'"
+                            aria-haspopup="true"
+                            class="site-header__button site-header__button--submenu"
+                            :class="{'has-other-opened' : openedSubmenu !== null && openedSubmenu !== 'aD311A6FA5EF54542B9E695D4BAE6610B'}"
+                            :tabindex="openedSubmenu !== null ? -1 : 0"
+                            @click="toggleSubmenu('aD311A6FA5EF54542B9E695D4BAE6610B')">
+                        <span class="site-header__button-text">How you can help</span>
+                        <svg class="site-header__button-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.7 6.9"><path d="M5.9 6.9c-.3 0-.5-.1-.7-.3L.3 1.7C-.1 1.3-.1.7.3.3s1-.4 1.4 0l4.1 4.2L10 .3c.4-.4 1-.4 1.4 0s.4 1 0 1.4L6.6 6.6c-.2.2-.5.3-.7.3z" /></svg>
+                    </button>
+                    <ul id="aD311A6FA5EF54542B9E695D4BAE6610B-submenu"
+                        class="site-header__submenu"
+                        :class="[{ 'is-opened': openedSubmenu === 'aD311A6FA5EF54542B9E695D4BAE6610B' }, {'is-truncated' : openedSubmenu && validateSubmenuWidth('aD311A6FA5EF54542B9E695D4BAE6610B') }]">
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/how-you-can-help" class="site-header__link site-header__link--second-level">How you can help</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/how-you-can-help/ways-to-give" class="site-header__link site-header__link--second-level">Ways to give</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/how-you-can-help/events" class="site-header__link site-header__link--second-level">Events</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/how-you-can-help/volunteer" class="site-header__link site-header__link--second-level">Volunteer</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/how-you-can-help/advocate" class="site-header__link site-header__link--second-level">Advocate</a>
+                                </li>
+                                <li class="site-header__item site-header__item--second-level">
+                                    <a href="https://www.heartandstroke.ca/how-you-can-help/learn-cpr" class="site-header__link site-header__link--second-level">Learn CPR</a>
+                                </li>
+                        
+                        <li class="sr-only-focusable"
+                            :tabindex="0"
+                            @focus="focusFirstVisibleMenuItem">
+                        </li>
+                        
+                    </ul>
+            </li>
+        <ul class="site-header__topnav site-header__topnav--mobile">
+                    <li class="site-header__item site-header__item--topnav">
+                        <a class="site-header__link site-header__link--topnav"
+                           href="https://www.heartandstroke.ca/heart-disease/emergency-signs">
+                                <div class="icon">
+                                    <img src="https://heartstrokeprod.azureedge.net/-/media/sites/hsf/configuration/icon-warning.ashx?rev=a0cc0c354daf4e11bdbce4391129cb14&amp;hash=D12593912976DFA2A4E2E5F03AC9F461" alt="warning" aria-hidden="true">
+                                </div>
+                            <span>
+                                Emergency signs
+                            </span>
+                        </a>
+                    </li>
+                    <li class="site-header__item site-header__item--topnav">
+                        <a class="site-header__link site-header__link--topnav"
+                           href="https://www.heartandstroke.ca/how-you-can-help/learn-cpr">
+                                <div class="icon">
+                                    <img src="https://heartstrokeprod.azureedge.net/-/media/sites/hsf/configuration/icon-heartbeat.ashx?rev=2bebd52bdfd7487286ffd815e17ec0c5&amp;hash=D2B647C5639598DE5047371D4CBAA7DE" alt="heartbeat" aria-hidden="true">
+                                </div>
+                            <span>
+                                CPR training
+                            </span>
+                        </a>
+                    </li>
+                    <li class="site-header__item site-header__item--topnav">
+                        <a class="site-header__link site-header__link--topnav"
+                           href="https://www.heartandstroke.ca/what-we-do/for-professionals">
+                                <div class="icon">
+                                    <img src="https://heartstrokeprod.azureedge.net/-/media/sites/hsf/configuration/icon-cross.ashx?rev=50b599da05f34e08912886a52b54320d&amp;hash=F237098F86D3724D560175A2EF1038A7" alt="cross" aria-hidden="true">
+                                </div>
+                            <span>
+                                For professionals
+                            </span>
+                        </a>
+                    </li>
+                            <li class="site-header__item site-header__item--lang">
+                    <a class="site-header__link site-header__link--lang"
+                       href="https://www.coeuretavc.ca/vivez-sainement/saine-alimentation/manger-a-la-maison">
+                        Fran&#231;ais 
+                    </a>
+                </li>
+            <li class="sr-only-focusable"
+                :tabindex="0"
+                @focus="focusFirstVisibleMenuItem">
+            </li>
+        </ul>
+    </ul>
+</nav>
+
+            </div>
+        </div>
+    </the-site-header>
+</header>
+<div aria-hidden="true" class="site-header__overlay"></div>
+        <main class="site-main" role="main">
+            
+            
+            
+            
+<nav class="sl-breadcrumb" aria-label="breadcrumb">
+    <div class="container-fluid">
+        <ol class="sl-breadcrumb__list">
+            <li class="sl-breadcrumb__item sl-breadcrumb__item--back">
+                <a href="https://www.heartandstroke.ca/healthy-living/healthy-eating" class="sl-breadcrumb__back" aria-label="back">
+                     <svg class="sl-breadcrumb__back-angle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.7 6.9"><path d="M5.9 6.9c-.3 0-.5-.1-.7-.3L.3 1.7C-.1 1.3-.1.7.3.3s1-.4 1.4 0l4.1 4.2L10 .3c.4-.4 1-.4 1.4 0s.4 1 0 1.4L6.6 6.6c-.2.2-.5.3-.7.3z"/></svg>
+                </a>
+            </li>
+                <li class="sl-breadcrumb__item">
+                    <a class="sl-breadcrumb__link "
+                       href="https://www.heartandstroke.ca/" >
+                        Home
+                    </a>
+                </li>
+                <li class="sl-breadcrumb__item">
+                    <a class="sl-breadcrumb__link "
+                       href="https://www.heartandstroke.ca/healthy-living" >
+                        Healthy living
+                    </a>
+                </li>
+                <li class="sl-breadcrumb__item">
+                    <a class="sl-breadcrumb__link "
+                       href="https://www.heartandstroke.ca/healthy-living/healthy-eating" >
+                        Healthy eating
+                    </a>
+                </li>
+                <li class="sl-breadcrumb__item">
+                    <a class="sl-breadcrumb__link sl-breadcrumb__link--active"
+                       href="https://www.heartandstroke.ca/healthy-living/healthy-eating/eating-at-home" aria-current=page>
+                        Eating at home
+                    </a>
+                </li>
+        </ol>
+    </div>
+</nav>
+
+            
+<article class="hsf-article hsf-generic">
+    <section class="hsf-article-header hsf-container" id="maincontent">
+
+            <div class="hsf-article-tag">
+                <a href="https://www.heartandstroke.ca/groups/health-seekers" class="hsf-link" title="Health seekers">Health seekers</a>
+            </div>
+
+        <header>
+            <h1 class="hsf-article-title">Eating at home</h1>
+        </header>
+
+
+        
+        
+    </section>
+    
+        <section class="hsf-article-hero">
+            <figure>
+                <img src="https://heartstrokeprod.azureedge.net/-/media/images/get-healthy/family-at-home-preparing-meal-in-kitchen-together-picture-.ashx?rev=13e779957fbb4efab5ad7c82aa5d7e7e&amp;h=1080&amp;w=1920&amp;la=en&amp;hash=44C77AB457DCE967DF1EA0BE2C059825" alt="family-at-home-preparing-meal-in-kitchen-together-picture-" />
+            </figure>
+            
+        </section>
+    
+    
+    <!-- Facebook init -->
+    <div id="fb-root"></div>
+    <div class="hsf-social-sharing-module">
+        <div class="hsf-container">
+            <div class="hsf-social-sharing-container" hsf-controller="socialSharingController">
+                <div class="icon-item">
+                    <p class="title-social-sharing">
+                        Share
+                    </p>
+                </div>
+                <div class="icon-item">
+                    <a href="#" onclick="FB.ui({ method: 'share', display: 'popup', href: 'https://www.heartandstroke.ca/en/healthy-living/healthy-eating/eating-at-home/'}, function(response) {});" class="btn share-button__link share-button__link--facebook">
+                        <span class="icon hsf-icon-facebook"></span>
+                        <span class="visually-hidden">Facebook</span>
+                    </a>
+                </div>
+                <div class="icon-item">
+                    <a class="social-icons" href="https://twitter.com/intent/tweet?text=Eating at home&url=https://www.heartandstroke.ca/healthy-living/healthy-eating/eating-at-home&hashtags=MoreMoments" title="Twitter" data-event="GAevent" data-event-category="social" data-event-action="social_external" data-event-label="social_external_tw">
+                        <span class="icon hsf-icon-twitter"></span>
+                        <span class="visually-hidden">Twitter</span>
+                    </a>
+                </div>
+                <div class="icon-item">
+                    <a href="mailto:?Subject=Eating at home&body=https://www.heartandstroke.ca/healthy-living/healthy-eating/eating-at-home" title="Email" data-event="GAevent" data-event-category="social" data-event-action="social_external" data-event-label="social_external_email">
+                        <span class="icon hsf-icon-mail"></span>
+                        <span class="visually-hidden">Email</span>
+                    </a>
+                </div>
+                    <div class="icon-item">
+                        <a href="javascript:window.print();" title="Print">
+                            <span class="icon hsf-icon-printer"></span>
+                            <span class="visually-hidden">Print</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+    </div>
+    <section class="hsf-article-content">
+        	<div class="hsf-paragraph-container hsf-container">
+	    <div class="hsf-paragraph-component">
+	        <h6>Heart Healthy Cooking</h6>
+<p>No matter how much time you have or don't have for cooking, you can make heart-healthy meals by following these suggestions.</p>
+<p>Heart-healthy cooking focuses on the right kind of fat, and limiting <a href="https://www.heartandstroke.ca/healthy-living/healthy-eating/fats-and-oils">saturated fats</a>. It also includes limiting <a href="https://www.heartandstroke.ca/healthy-living/healthy-eating/reduce-salt">salt</a>&nbsp;while upping fibre and making sure half your plate is filled with vegetables and fruit at every meal and snack.</p>
+<p><strong>What's on your plate?</strong></p>
+<p>Start by changing the proportions of your plate so that <a href="https://www.heartandstroke.ca/healthy-living/healthy-eating/protein">protein foods</a>&nbsp;are no longer the main attractions. Instead, fill about half of the plate with a colourful variety of vegetables and fruit, a quarter of the plate with whole grains such as brown rice and 100% <a href="https://www.heartandstroke.ca/healthy-living/healthy-eating/fibre-and-whole-grains">whole-grain</a>&nbsp;bread. Fish, poultry, lean meat or legumes (chickpeas, lentils, tofu) should make up the remaining one-quarter of the plate.&nbsp;Choose plant-based protein foods more often.</p>
+<p><strong>Slash the saturated fat</strong></p>
+<p>Trim all visible fat from meat and take the skin off poultry to reduce saturated fat and calories. Instead of pan-frying or deep-frying, try baking, broiling, grilling or roasting (on a rack, so fat can drip away). Fish may be poached in water, sodium-reduced tomato juice or lower-fat milk. To saut&eacute;, use a non-stick pan or a small amount of heart-healthy olive or canola oil.&nbsp;Plant-based protein foods are naturally low in fat.&nbsp;</p>
+<p><strong>Double up</strong></p>
+<p>If you're saut&eacute;eing, steaming or boiling a vegetable, it's just as easy to cook two or more in the same pot or pan. If you're making brown rice, cook twice the amount you need so you'll have enough for another meal.</p>
+<p><strong>Try smart-switching</strong></p>
+<p>Substituting healthy ingredients for less healthy ones won't take any more time and may even save you money. Use plain, lower-fat yogurt instead of sour cream, lower-fat, lower-sodium cheese instead of the full-fat type, and evaporated skim milk instead of cream. Cook whole-wheat pasta instead of white. Replace some of the white flour in a recipe with 100% whole-wheat flour.</p>
+<p><strong>Shake the salt habit</strong></p>
+<p>Instead of salt, spice things up with fresh or dried herbs. Try dill with fish, paprika with chicken or ginger with beef. Lightly saut&eacute;ed garlic, onions and sweet red peppers add flavour as well as assorted nutrients that promote good health.</p>
+<p>Get <a href="https://www.heartandstroke.ca/healthy-living/recipes">heart-healthy recipes</a>.</p>
+<h6>Eating Together</h6>
+<p>Studies show that families who sit down to regular meals together tend to eat better. Like most Canadians, you're probably juggling work and family life, leaving little time to cook and eat together. Here are some ways to plan ahead to make your meals heart healthy.</p>
+<p><strong>Obstacle: I don't have time to cook</strong></p>
+<p>We all have days when we are too busy to make meals. Here are some tips to overcome time crunches.</p>
+<p><strong>Tip 1.</strong>&nbsp;Prepare foods ahead of time. While making one meal, slice extra onions, dice extra peppers, cook extra brown rice or whole-wheat noodles and marinate meat so that they're ready to use for the next night's meal.</p>
+<p><strong>Tip 2.</strong> Take short cuts. Use pre-cut vegetables, bagged salads, canned or frozen beans and lentils and pre-grated cheese.</p>
+<p><span id="docs-internal-guid-f75939b5-1c1a-0a87-efb6-d8256251e518"><strong>Tip 3.&nbsp;</strong>Make double batches of your favourite recipes on weekends and freeze them. Defrost in the refrigerator overnight, heat and serve for an instant supper during the busy week.</span></p>
+<p><span id="docs-internal-guid-f75939b5-1c1a-0a87-efb6-d8256251e518"><strong>Tip 4. </strong>While roasting one meal in the oven, throw in some sweet potatoes, beets and squash in another roasting pan. When cooked, cool and store the roasted vegetables in the fridge for next night's meal.</span></p>
+<p><span id="docs-internal-guid-f75939b5-1c1a-0a87-efb6-d8256251e518"><strong>Tip 5.&nbsp;</strong>Cook stews, soups and casseroles in a crock pot. The food will stay heated and be ready to eat when family members arrive home. </span></p>
+<p><span id="docs-internal-guid-f75939b5-1c1a-0a87-efb6-d8256251e518"><strong>Quick and healthy meal ideas</strong></span></p>
+<ul>
+    <li><span id="docs-internal-guid-f75939b5-1c1a-0a87-efb6-d8256251e518">Mix a jar of pasta sauce (some come with six vegetables) with fresh, ready-made whole-wheat, vegetable-filled ravioli.</span>
+    <ul style="margin-left: 40px;">
+        <li><span id="docs-internal-guid-f75939b5-1c1a-0a87-efb6-d8256251e518">Cooking time for ravioli: 5 minutes</span></li>
+    </ul>
+    </li>
+    <li><span id="docs-internal-guid-f75939b5-1c1a-0a87-efb6-d8256251e518">Stir-fry onions, celery, broccoli with fresh, store-bought BBQ chicken, diced. Serve on whole-wheat couscous.</span>
+    <ul style="margin-left: 40px;">
+        <li><span id="docs-internal-guid-f75939b5-1c1a-0a87-efb6-d8256251e518">Cooking time for the stir-fry: 15 minutes.</span></li>
+        <li><span id="docs-internal-guid-f75939b5-1c1a-0a87-efb6-d8256251e518">Cooking time for couscous: 5 minutes.</span></li>
+    </ul>
+    </li>
+    <li><span id="docs-internal-guid-f75939b5-1c1a-0a87-efb6-d8256251e518">Make eggplant lentil curry and serve it with a fresh salad of red-leaf lettuce and tomato.</span>
+    <ul style="margin-left: 40px;">
+        <li><span id="docs-internal-guid-f75939b5-1c1a-0a87-efb6-d8256251e518">Prep and cooking time is 35 minutes.</span></li>
+    </ul>
+    </li>
+</ul>
+<h6>Ordering take-out food</h6>
+<p>Canadians, it seems, love to order take-out food. By making wise choices, you may not only treat yourself to some special dishes, but you also ensure that your restaurant meals fit into your overall heart-healthy eating plan.</p>
+<p>When ordering take-out food, you're still in charge of what you eat even though you're not doing the cooking. More and more restaurants today are happy to accommodate individual preferences, so feel free to ask questions about how a dish is cooked or to make requests, such as asking for salad dressing on the side or having a baked potato instead of French fries. (You'll still want to avoid loading up your potato with sour cream, butter and bacon bits.) A steady diet of excess fat, calories and salt may increase your risk of heart disease and stroke.</p>
+<p>Many restaurant chains now post nutrition information on menus or on their websites consistent with the Nutrition Facts table on packaged foods.</p>
+<p><strong>Heart-healthy choices</strong></p>
+<p>When you see the words baked, barbecued, broiled, char broiled, grilled, poached, roasted, steamed or stir-fried, it most likely means the food is cooked with little or no fat and therefore a healthy choice.&nbsp;Look for vegetarian choices on the menu.</p>
+<p><strong>Take a pass</strong></p>
+<p>When you see the words Alfredo sauce, au gratin, cheese sauce, battered, breaded, buttered, creamed, crispy, deep-fried, en cro&ucirc;te, fried, hollandaise, pan-fried, pastry, prime, rich, sauteed, scalloped, gravy, mayonnaise, thick sauce, it usually means that the food is higher in fat and calories.</p>
+<p>Similarly, foods that are pickled, smoked, or are served with soy sauce mean that the food is higher in sodium. (Ask for sodium-reduced soy sauce.)</p>
+<p><strong>Portion sizes</strong></p>
+<p>Portion sizes in restaurants are often large, so keep half of your meal for tomorrow&rsquo;s lunch or dinner.&nbsp;</p>
+<p><strong>Desserts</strong></p>
+<p>Keep dessert light and simple, such as fresh fruit. If you can't resist a rich dessert, indulge occasionally or share it with your family.</p>
+<h6>Related information</h6>
+<p>Check out our <a href="https://www.heartandstroke.ca/articles/healthy-meal-planning-toolkit">healthy meal planning toolkit</a>.<br />
+<br />
+Try <a href="https://www.heartandstroke.ca/articles/but-i-dont-like-fruit-or-vegetables">these tips</a>&nbsp;for getting more healthy produce into your diet.<br />
+<br />
+More <a href="https://www.heartandstroke.ca/healthy-living/healthy-eating/healthy-eating-basics">healthy eating basics</a>.</p>
+	    </div>
+	</div>
+
+    </section>
+
+    <section class="hsf-article-footer"></section>
+</article>
+
+<section id="sl-newsletter" class="newsletter sl-section theme theme--grey">
+    <newsletter-form inline-template>
+        <div class="container container--small">
+            <h2 class="sl-section__title sl-section__title--small mb-3">
+                <span v-if="!isSent">Get news you can use</span>
+                <span v-else>Thank you! You are subscribed.</span>
+            </h2>
+            <div class="sl-wysiwyg mb-3 mb-md-4">
+                <div v-if="!isSent">
+                    Sign up to receive updates from Heart &amp; Stroke tailored just for you — from heart health tips, research updates and breaking news  to support and more.
+
+                </div>
+                <div v-else>
+                    Your first newsletter should arrive in the next 7-10 days.
+                </div>
+            </div>
+            <form ref="form" @submit="sendForm" method="POST" action="/Forms/Subscribe" name="subscribeForm" novalidate autocomplete="off">
+                <input type="hidden" name="formId" value="{70801EE1-5E32-42BB-BA65-5B9E6EC12597}" />
+                <div v-show="!isSent">
+                    <div class="control mb-3 mb-md-4">
+                        <div class="control__group">
+                            <label for="name" class="control__label">Your first name</label>
+                            <input id="name" name="First Name" type="text" class="control__input" @blur="validateName" v-model="name" aria-live="assertive" aria-describedby="name-error">
+                            <span id="name-error" v-show="nameHasError" class="control__error">Please enter a name.</span>
+                        </div>
+                    </div>
+                    <div class="control">
+                        <div class="control__group">
+                            <label for="email" class="control__label">Your email address</label>
+                            <input id="email" name="EmailAddress" type="email" class="control__input" @blur="validateEmail" v-model="email" :aria-invalid="emailHasError" aria-live="assertive" aria-describedby="email-error">
+                            <span id="email-error" v-show="emailHasError" class="control__error">Please enter a valid email address.</span>
+                        </div>
+                    </div>
+                    <div v-show="recapchaHasLoaded">
+                        <div id="recaptcha" class="g-recaptcha mt-4" ref="recaptcha" data-sitekey="6Lc4eMoZAAAAAOHkqI3rgTpw9Jph1CDGhg2Wm5PA"></div>
+                        <span class="control__error" v-show="recaptchaHasError">Please check the reCaptcha checkbox.</span>
+                    </div>
+                    <span class="control__error" v-show="generalErrorMessage != ''" v-text="generalErrorMessage"></span>
+                    <div class="d-flex justify-content-center">
+                        <button class="sl-button sl-button--fw newsletter__button mt-4">Subscribe</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </newsletter-form>
+    <div class="newsletter__logo">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 255 134.879"><path data-name="Tracé 1443" d="M142.265 12.087c-17.693-17.018-46.272-15.469-64.379.9-18.108-16.368-46.68-17.917-64.373-.9C4.803 20.465.001 33.987.001 45.9c0 48.78 73.674 88.7 77.885 88.7s77.906-39.921 77.906-88.7c0-11.394-4.514-25.142-13.527-33.813" fill="#de1c1d"/><path data-name="Tracé 1444" d="M179.702 134.879h-41.561l75.3-130.529h41.561z" fill="#de1c1d"/><g fill="#de1c1d"><path data-name="Tracé 1315" d="M189.721 126.35h6.434v1.366h-2.407v6.633h-1.623v-6.633h-2.4z"/><path data-name="Tracé 1316" d="M196.752 126.35h2.281l1.13 4.017c.28 1.008.5 2.16.5 2.16h.023s.213-1.152.493-2.16l1.128-4.017h2.317v8h-1.511v-4.586c0-.648.069-1.656.069-1.656h-.022s-.179.941-.347 1.522l-1.376 4.722h-1.557l-1.341-4.722c-.17-.581-.346-1.522-.346-1.522h-.022s.064 1.008.064 1.656v4.587h-1.486z"/></g></svg>
+    </div>
+</section>
+
+        </main>
+        <a href="javascript:void(0);" class="hsf-back-to-top"><span class="arrow-up"></span></a>
+
+    <section class="hsf-partners-module" style="background-color:#fff;text-align:center;">
+    <article class="hsf-container">
+<img src="https://heartstrokeprod.azureedge.net/-/media/images/women-see-red/lifeline_eng_rgb.ashx?rev=937892ae18a94596baf7f3995333f4ed&amp;h=65&amp;w=600&amp;la=en&amp;hash=90DFBCEF8F7E30A7864A175EA8E73439" alt="Life. We don&#39;t want you to miss it." />    </article>
+</section>
+<footer id="site-footer" class="site-footer theme theme--dark" data-gtm-section="Footer">
+    <div class="container">
+
+<nav class="site-footer__grid site-footer__section" aria-label="footer navigation">
+        <expand-collapse inline-template>
+            <div class="sl-accordion site-footer__grid-item site-footer__grid-item--20"
+                 :class="{'is-open' : isOpen }">
+                <button class="sl-accordion__title site-footer__title"
+                        @click="toggle"
+                        :tabindex="windowWidth > 575 ? -1 : 0">
+                    <span class="sl-accordion__title-text">Get in touch</span>
+                    <svg class="sl-accordion__angle sl-accordion__angle--hidden-sm" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7.8 13.7"><path d="M1 13.7c-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4l5.1-5.1L.3 1.7C-.1 1.3-.1.7.3.3s1-.4 1.4 0l5.8 5.8c.2.2.3.4.3.7s-.1.6-.3.7l-5.8 5.8c-.2.3-.4.4-.7.4z"></path></svg>
+                </button>
+                <div class="site-footer__grid-content sl-accordion__content-wrapper"
+                     :style="{ height: contentHeight  + 'px' }">
+                    <ul class="sl-accordion__content site-footer__list">
+                                <li class="site-footer__list-item">
+                                    <a href="https://www.heartandstroke.ca/contact-us" class="site-footer__link">Contact us</a>
+                                </li>
+                                <li class="site-footer__list-item">
+                                    <a href="https://www.heartandstroke.ca/more-locations##" class="site-footer__link">Our offices</a>
+                                </li>
+                    </ul>
+                </div>
+            </div>
+        </expand-collapse>
+        <expand-collapse inline-template>
+            <div class="sl-accordion site-footer__grid-item site-footer__grid-item--20"
+                 :class="{'is-open' : isOpen }">
+                <button class="sl-accordion__title site-footer__title"
+                        @click="toggle"
+                        :tabindex="windowWidth > 575 ? -1 : 0">
+                    <span class="sl-accordion__title-text">About us</span>
+                    <svg class="sl-accordion__angle sl-accordion__angle--hidden-sm" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7.8 13.7"><path d="M1 13.7c-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4l5.1-5.1L.3 1.7C-.1 1.3-.1.7.3.3s1-.4 1.4 0l5.8 5.8c.2.2.3.4.3.7s-.1.6-.3.7l-5.8 5.8c-.2.3-.4.4-.7.4z"></path></svg>
+                </button>
+                <div class="site-footer__grid-content sl-accordion__content-wrapper"
+                     :style="{ height: contentHeight  + 'px' }">
+                    <ul class="sl-accordion__content site-footer__list">
+                                <li class="site-footer__list-item">
+                                    <a href="https://www.heartandstroke.ca/what-we-do/strategy" class="site-footer__link">Strategy</a>
+                                </li>
+                                <li class="site-footer__list-item">
+                                    <a href="https://www.heartandstroke.ca/what-we-do/leadership" class="site-footer__link">Leadership</a>
+                                </li>
+                                <li class="site-footer__list-item">
+                                    <a href="https://www.heartandstroke.ca/what-we-do/finances" class="site-footer__link">Financials</a>
+                                </li>
+                                <li class="site-footer__list-item">
+                                    <a href="https://www.heartandstroke.ca/what-we-do/partners" class="site-footer__link">Partners</a>
+                                </li>
+                                <li class="site-footer__list-item">
+                                    <a href="https://www.heartandstroke.ca/what-we-do/careers" class="site-footer__link">Careers</a>
+                                </li>
+                    </ul>
+                </div>
+            </div>
+        </expand-collapse>
+        <expand-collapse inline-template>
+            <div class="sl-accordion site-footer__grid-item site-footer__grid-item--20"
+                 :class="{'is-open' : isOpen }">
+                <button class="sl-accordion__title site-footer__title"
+                        @click="toggle"
+                        :tabindex="windowWidth > 575 ? -1 : 0">
+                    <span class="sl-accordion__title-text">For media</span>
+                    <svg class="sl-accordion__angle sl-accordion__angle--hidden-sm" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7.8 13.7"><path d="M1 13.7c-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4l5.1-5.1L.3 1.7C-.1 1.3-.1.7.3.3s1-.4 1.4 0l5.8 5.8c.2.2.3.4.3.7s-.1.6-.3.7l-5.8 5.8c-.2.3-.4.4-.7.4z"></path></svg>
+                </button>
+                <div class="site-footer__grid-content sl-accordion__content-wrapper"
+                     :style="{ height: contentHeight  + 'px' }">
+                    <ul class="sl-accordion__content site-footer__list">
+                                <li class="site-footer__list-item">
+                                    <a href="https://www.heartandstroke.ca/what-we-do/media-centre" class="site-footer__link">Media centre</a>
+                                </li>
+                                <li class="site-footer__list-item">
+                                    <a href="https://www.heartandstroke.ca/what-we-do/media-centre/news-releases" class="site-footer__link">News releases</a>
+                                </li>
+                                <li class="site-footer__list-item">
+                                    <a href="https://www.heartandstroke.ca/heart-and-stroke-position-statements" class="site-footer__link">Position statements</a>
+                                </li>
+                                <li class="site-footer__list-item">
+                                    <a href="https://www.heartandstroke.ca/communications-staff" class="site-footer__link">Communications staff</a>
+                                </li>
+                    </ul>
+                </div>
+            </div>
+        </expand-collapse>
+        <expand-collapse inline-template>
+            <div class="sl-accordion site-footer__grid-item site-footer__grid-item--20"
+                 :class="{'is-open' : isOpen }">
+                <button class="sl-accordion__title site-footer__title"
+                        @click="toggle"
+                        :tabindex="windowWidth > 575 ? -1 : 0">
+                    <span class="sl-accordion__title-text">For patients</span>
+                    <svg class="sl-accordion__angle sl-accordion__angle--hidden-sm" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7.8 13.7"><path d="M1 13.7c-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4l5.1-5.1L.3 1.7C-.1 1.3-.1.7.3.3s1-.4 1.4 0l5.8 5.8c.2.2.3.4.3.7s-.1.6-.3.7l-5.8 5.8c-.2.3-.4.4-.7.4z"></path></svg>
+                </button>
+                <div class="site-footer__grid-content sl-accordion__content-wrapper"
+                     :style="{ height: contentHeight  + 'px' }">
+                    <ul class="sl-accordion__content site-footer__list">
+                                <li class="site-footer__list-item">
+                                    <a href="https://www.heartandstroke.ca/coronavirus" class="site-footer__link">Coronavirus</a>
+                                </li>
+                                <li class="site-footer__list-item">
+                                    <a href="https://www.heartandstroke.ca/what-we-do/publications" class="site-footer__link">Health publications</a>
+                                </li>
+                                <li class="site-footer__list-item">
+                                    <a href="https://www.heartandstroke.ca/services-and-resources" class="site-footer__link">Services and resources</a>
+                                </li>
+                                <li class="site-footer__list-item">
+                                    <a href="https://www.heartandstroke.ca/what-we-do/webinars" class="site-footer__link">Webinars</a>
+                                </li>
+                                <li class="site-footer__list-item">
+                                    <a href="https://www.strokebestpractices.ca/resources/patient-resources" rel="noopener noreferrer" class="site-footer__link" target="_blank">Stroke Best Practices</a>
+                                </li>
+                                <li class="site-footer__list-item">
+                                    <a href="https://www.heartandstroke.ca/activate/" rel="noopener noreferrer" class="site-footer__link" target="_blank">Activate program</a>
+                                </li>
+                    </ul>
+                </div>
+            </div>
+        </expand-collapse>
+        <expand-collapse inline-template>
+            <div class="sl-accordion site-footer__grid-item site-footer__grid-item--20"
+                 :class="{'is-open' : isOpen }">
+                <button class="sl-accordion__title site-footer__title"
+                        @click="toggle"
+                        :tabindex="windowWidth > 575 ? -1 : 0">
+                    <span class="sl-accordion__title-text">Our sites</span>
+                    <svg class="sl-accordion__angle sl-accordion__angle--hidden-sm" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7.8 13.7"><path d="M1 13.7c-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4l5.1-5.1L.3 1.7C-.1 1.3-.1.7.3.3s1-.4 1.4 0l5.8 5.8c.2.2.3.4.3.7s-.1.6-.3.7l-5.8 5.8c-.2.3-.4.4-.7.4z"></path></svg>
+                </button>
+                <div class="site-footer__grid-content sl-accordion__content-wrapper"
+                     :style="{ height: contentHeight  + 'px' }">
+                    <ul class="sl-accordion__content site-footer__list">
+                                <li class="site-footer__list-item">
+                                    <a href="https://www.heartandstrokelottery.ca/en/home" rel="noopener noreferrer" class="site-footer__link" target="_blank">Heart & Stroke Lottery</a>
+                                </li>
+                                <li class="site-footer__list-item">
+                                    <a href="https://secure-support.heartandstroke.ca/site/SPageServer/?pagename=jump_home&amp;s_locale=en_CA" rel="noopener noreferrer" class="site-footer__link" target="_blank">Jump Rope for Heart</a>
+                                </li>
+                                <li class="site-footer__list-item">
+                                    <a href="https://secure-support.heartandstroke.ca/site/SPageServer?pagename=rfh_home" rel="noopener noreferrer" class="site-footer__link" target="_blank">Ride for Heart</a>
+                                </li>
+                                <li class="site-footer__list-item">
+                                    <a href="https://secure-support.heartandstroke.ca/site/SPageServer/?pagename=MOF_home" rel="noopener noreferrer" class="site-footer__link" target="_blank">My Own Fundraiser</a>
+                                </li>
+                                <li class="site-footer__list-item">
+                                    <a href="https://hskids.ca/" rel="noopener noreferrer" class="site-footer__link" target="_blank">HeartSmart Kids</a>
+                                </li>
+                                <li class="site-footer__list-item">
+                                    <a href="https://shop.heartandstroke.ca/?_ga=2.171112608.1833607908.1600088968-696202415.1591636639" rel="noopener noreferrer" title="#" class="site-footer__link" target="_blank">Online shop</a>
+                                </li>
+                    </ul>
+                </div>
+            </div>
+        </expand-collapse>
+</nav>
+
+        <div class="row site-footer__section justify-content-xl-between">
+
+
+<div class="col-12 col-xl-auto site-footer__section">
+    <div class="row">
+            <div class="col-12 col-sm-auto site-footer__contact site-footer__info">
+                <a class="site-footer__contact-link" href="https://goo.gl/maps/W5GeLVLUvBUX6TuG6">
+                    <div class="site-footer__contact-svg">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22.208 32.226"><path data-name="Tracé 1413" d="M22.202 11.1a11.1 11.1 0 00-22.2 0s-.64 9.11 11.1 21.128c11.74-12.02 11.1-21.128 11.1-21.128zm-11.1 4.909a4.909 4.909 0 114.909-4.909 4.909 4.909 0 01-4.907 4.906z" fill="#e6e6e6" /></svg>
+                    </div>
+                    <span>110-1525 Carling Ave. Ottawa  ON  K1Z 8R9</span>
+                </a>
+            </div>
+            <div class="col-12 col-sm-auto site-footer__contact site-footer__info">
+                <a class="site-footer__contact-link" href="tel:1-888-473-4636">
+                    <div class="site-footer__contact-svg">
+                        <svg class="site-footer__contact-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.54 27.341"><path data-name="Tracé 1414" d="M4.953 0c.34.024.68.058 1.021.068a1.12 1.12 0 011.009.636 13.249 13.249 0 01.736 1.517 12.648 12.648 0 01.921 3.765.718.718 0 01-.318.663c-.8.643-1.553 1.334-2.337 1.992a1.515 1.515 0 00-.459 1.729 16.417 16.417 0 001.472 3.483 21.868 21.868 0 002.815 4.236 7.6 7.6 0 001.08.966.818.818 0 00.556.1 12.814 12.814 0 002.814-.842 5.046 5.046 0 00.656-.288.566.566 0 01.667.044c.309.228.633.44.917.7a15.074 15.074 0 012.629 2.96c.033.05.064.1.1.151a1.56 1.56 0 01.1 1.727 9.47 9.47 0 01-2.315 3.031 2.42 2.42 0 01-1.738.7 4.985 4.985 0 01-1.44-.411 15.862 15.862 0 01-5.081-3.618A31.9 31.9 0 01.666 9.231a16.672 16.672 0 01-.637-5.343 11.449 11.449 0 01.238-1.722A2.3 2.3 0 011.899.542 8.456 8.456 0 014.953 0z" fill="#fff" /></svg>
+                    </div>
+                    <span>1-888-473-4636</span>
+                </a>
+            </div>
+    </div>
+</div>
+<div class="col-12 col-sm-auto site-footer__section site-footer__info pt-xl-0 pb-xl-0">
+    <div class="row align-items-end align-items-md-center">
+        <region-dropdown inline-template>
+            <form action="/footer/setregion/" class="col-auto flex-grow-1">
+                <div class="control control--horiz">
+                    <label class="control__label site-footer__label sr-only" for="province">Provinces</label>
+                    <div class="control__group">
+                        <svg class="control__angle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7.8 13.7"><path d="M1 13.7c-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4l5.1-5.1L.3 1.7C-.1 1.3-.1.7.3.3s1-.4 1.4 0l5.8 5.8c.2.2.3.4.3.7s-.1.6-.3.7l-5.8 5.8c-.2.3-.4.4-.7.4z"></path></svg>
+                        <select @change="setRegion" name="p" id="province" class="control__input control__select control__input--dark site-footer__select">
+                                <option value="National" >National Site</option>
+                                <option value="AB" >Alberta</option>
+                                <option value="BC" >British Columbia</option>
+                                <option value="MB" >Manitoba</option>
+                                <option value="NB" >New Brunswick</option>
+                                <option value="NL" >Newfoundland</option>
+                                <option value="NT" >Northwest Territories</option>
+                                <option value="NS" >Nova Scotia</option>
+                                <option value="NU" >Nunavut</option>
+                                <option value="ON" >Ontario</option>
+                                <option value="PE" >Prince Edward Island</option>
+                                <option value="QC" >Qu&#233;bec</option>
+                                <option value="SK" >Saskatchewan</option>
+                                <option value="YT" >Yukon</option>
+                        </select>
+                    </div>
+                </div>
+            </form>
+        </region-dropdown>
+            <div class="col-auto">
+                <a class="site-footer__lang" href="https://www.coeuretavc.ca/vivez-sainement/saine-alimentation/manger-a-la-maison">Fran&#231;ais </a>
+            </div>
+    </div>
+</div>
+
+            <div class="col-12 col-sm-auto site-footer__section site-footer__section--donate site-footer__info pt-xl-0 pb-xl-0">
+<a href="https://hsf.donorportal.ca/Donation/Donation.aspx?F=1773&amp;T=GENER&amp;L=en-CA&amp;G=328&amp;NFP=1&amp;cscid=website_footer&amp;scanline=no&amp;CURL=hsweb&amp;_ga=2.128350732.1096633295.1601300594-1331556318.1585684260" rel="noopener noreferrer" data-gtm-cta="Donate" class="sl-button sl-button--donate sl-button--fw" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.26 16.647"><path data-name="Tracé 668" d="M17.591 1.495a5.9 5.9 0 00-7.961.109 5.9 5.9 0 00-7.961-.109 6.022 6.022 0 00-1.668 4.18c0 6.03 9.113 10.972 9.63 10.972s9.63-4.933 9.63-10.972a6.036 6.036 0 00-1.668-4.18" fill="#fff" /></svg>                    <span>Donate</span>
+</a>            </div>
+        </div>
+        <nav class="site-footer__section site-footer__section--nav" aria-label="legal navigation">
+            <div class="row justify-content-xl-between">
+
+    <div class="col-12 col-xl-auto pb-2 pb-xl-0 align-items-xl-center d-xl-flex">
+        <ul class="row">
+                <li class="col-12 col-sm-auto site-footer__list-item">
+                    
+                </li>
+                <li class="col-12 col-sm-auto site-footer__list-item">
+                    <a href="https://www.heartandstroke.ca/privacy-policy" class="site-footer__link site-footer__link--legal">Privacy policy</a>
+                </li>
+                <li class="col-12 col-sm-auto site-footer__list-item">
+                    <a href="https://www.heartandstroke.ca/terms-of-use" class="site-footer__link site-footer__link--legal">Terms of use</a>
+                </li>
+                <li class="col-12 col-sm-auto site-footer__list-item">
+                    <a href="https://www.heartandstroke.ca/copyright" class="site-footer__link site-footer__link--legal">Copyright</a>
+                </li>
+                <li class="col-12 col-sm-auto site-footer__list-item">
+                    <a href="https://www.heartandstroke.ca/linking-policy" class="site-footer__link site-footer__link--legal">Linking policy</a>
+                </li>
+                <li class="col-12 col-sm-auto site-footer__list-item">
+                    <a href="https://www.heartandstroke.ca/complaints-policy" class="site-footer__link site-footer__link--legal">Complaints policy</a>
+                </li>
+                <li class="col-12 col-sm-auto site-footer__list-item">
+                    <a href="https://www.heartandstroke.ca/accessibility" rel="noopener noreferrer" class="site-footer__link site-footer__link--legal" target="_blank">Accessibility</a>
+                </li>
+                <li class="col-12 col-sm-auto site-footer__list-item">
+                    <a href="https://www.heartandstroke.ca/agreement" class="site-footer__link site-footer__link--legal">Volunteer agreement</a>
+                </li>
+                <li class="col-12 col-sm-auto site-footer__list-item">
+                    <a href="https://www.heartandstroke.ca/sitemap-index" class="site-footer__link site-footer__link--legal">Sitemap</a>
+                </li>
+        </ul>
+    </div>
+
+    <div class="site-footer__section col-12 col-xl-auto">
+        <ul class="row">
+                <li class="col-auto">
+                    <a class="sl-socials sl-socials--fb" href="https://www.facebook.com/heartandstroke/" target="_blank">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8.885 16.589"><path d="M8.303 9.331l.461-3H5.883v-1.95a1.5 1.5 0 011.693-1.622h1.31V.2A15.97 15.97 0 006.56 0a3.665 3.665 0 00-3.923 4.041v2.288H0v3h2.637v7.258h3.246V9.331z" fill="#000" /></svg>
+                    </a>
+                </li>
+                <li class="col-auto">
+                    <a class="sl-socials sl-socials--ig" href="https://www.instagram.com/heartandstroke/" target="_blank">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.872 16.868"><path d="M8.437 4.109a4.325 4.325 0 104.325 4.325 4.318 4.318 0 00-4.325-4.325zm0 7.136a2.812 2.812 0 112.812-2.812 2.817 2.817 0 01-2.812 2.812zm5.51-7.313a1.009 1.009 0 11-1.009-1.009 1.006 1.006 0 011.01 1.009zm2.864 1.024a4.992 4.992 0 00-1.361-3.534 5.025 5.025 0 00-3.535-1.36c-1.393-.079-5.567-.079-6.959 0a5.018 5.018 0 00-3.534 1.356A5.008 5.008 0 00.059 4.952c-.079 1.393-.079 5.567 0 6.959a4.992 4.992 0 001.363 3.534 5.031 5.031 0 003.534 1.363c1.393.079 5.567.079 6.959 0a4.992 4.992 0 003.534-1.363 5.025 5.025 0 001.363-3.534c.079-1.393.079-5.563 0-6.956zm-1.8 8.45a2.847 2.847 0 01-1.6 1.6c-1.11.44-3.745.339-4.972.339s-3.866.1-4.972-.339a2.847 2.847 0 01-1.6-1.6c-.44-1.11-.339-3.745-.339-4.972s-.1-3.866.339-4.972a2.847 2.847 0 011.6-1.6c1.11-.44 3.745-.339 4.972-.339s3.866-.101 4.966.339a2.847 2.847 0 011.6 1.6c.44 1.11.339 3.745.339 4.972s.109 3.865-.331 4.972z" fill="#000" /></svg>
+                    </a>
+                </li>
+                <li class="col-auto">
+                    <a class="sl-socials sl-socials--tw" href="https://twitter.com/HeartandStroke" target="_blank">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.589 13.473"><path d="M14.884 3.357c.011.147.011.295.011.442a9.607 9.607 0 01-9.673 9.673A9.608 9.608 0 010 11.947a7.033 7.033 0 00.821.042 6.809 6.809 0 004.221-1.453 3.406 3.406 0 01-3.179-2.358 4.288 4.288 0 00.642.053 3.6 3.6 0 00.895-.112A3.4 3.4 0 01.674 4.778v-.042a3.424 3.424 0 001.537.432A3.4 3.4 0 011.158.619a9.664 9.664 0 007.01 3.558 3.838 3.838 0 01-.084-.779 3.4 3.4 0 015.884-2.326 6.694 6.694 0 002.158-.821 3.391 3.391 0 01-1.495 1.874 6.816 6.816 0 001.958-.526 7.308 7.308 0 01-1.705 1.758z" fill="#000" /></svg>
+                    </a>
+                </li>
+                <li class="col-auto">
+                    <a class="sl-socials sl-socials--yt" href="https://www.youtube.com/user/heartandstrokefdn" target="_blank">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.695 12.442"><path d="M17.325 1.947A2.223 2.223 0 0015.761.372 52.543 52.543 0 008.85 0a52.543 52.543 0 00-6.913.372A2.223 2.223 0 00.37 1.947 23.324 23.324 0 000 6.234a23.324 23.324 0 00.37 4.287 2.19 2.19 0 001.564 1.549 52.543 52.543 0 006.913.372 52.543 52.543 0 006.913-.372 2.19 2.19 0 001.564-1.549 23.324 23.324 0 00.37-4.287 23.324 23.324 0 00-.37-4.287zM7.038 8.864V3.6l4.625 2.631-4.625 2.633z" fill="#000" /></svg>
+                    </a>
+                </li>
+        </ul>
+    </div>
+
+            </div>
+        </nav>
+        <div class="site-footer__section">
+            <div class="row flex-nowrap">
+                <div class="col-auto flex-shrink-0">
+                    <img src="https://heartstrokeprod.azureedge.net/-/media/sites/hsf/configuration/footer-logo.ashx?h=75&amp;w=75&amp;rev=e631d084324340949841975c5df9b5c8&amp;hash=1885B060C2FF7E5E30123D93709829F5" alt="Strong charities, strong communities, imagine canada, accredited since 2019" width="75" height="75" />
+                </div>
+                <div class="col-auto flex-shrink-1">
+                    <p class="site-footer__legal-text">&#169; 2020 Heart and Stroke Foundation of Canada. All rights reserved. Charitable Registration No. 106846942 RR0001. ™Life. We don’t want you to miss it., Saving moments. Funding breakthroughs. Saving lives., and the heart and / Icon on its own or followed by another icon or words in English are trademarks of the Heart and Stroke Foundation of Canada.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    <script src="/public/scripts/app.js?hash=5956c38b98d9bc45fcccbcfa00a51875"></script>
+    <script src="/public/scripts/sl-main.js?hash=2e6f580eb7da47cd0f239fb04f95be49"></script>
+    
+    <script src="https://www.google.com/recaptcha/api.js?render=explicit&onload=recaptchaLoaded&hl=en-US" async defer></script>
+    
+</body>
+</html>
