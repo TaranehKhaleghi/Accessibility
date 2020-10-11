@@ -5,3 +5,13 @@
   font-weight: normal;
 
 }
+
+.rc-anchor-light .rc-anchor-pt a:link, .rc-anchor-light .rc-anchor-pt a:visited {
+  color: #555;
+  background-color: white;
+}
+
+.rc-anchor-light {
+  background: #ffffff !important;
+  color: #000;
+}
