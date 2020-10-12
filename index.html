@@ -799,7 +799,7 @@
                                         </path>
                                     </svg></button> <input id="site-header__search__input" name="q" autocomplete="off"
                                     size="10" placeholder="Search" type="text" tabindex="0" aria-label="search"
-                                    class="control__input site-header__search-input"> <button type="button"
+                                    class="control__input site-header__search-input"><button type="button" aria-label="Search"
                                     tabindex="-1" class="site-header__search-btn"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.622 18.622">
                                         <g data-name="Ellipse 1" fill="none" stroke="#000" stroke-linecap="round"
@@ -1203,8 +1203,12 @@
                     <article>
                         <figure>
                             <a href="./Healthy eating _ Heart and Stroke Foundation_files/protein" title="textLink">
-                                <img src="./Healthy eating _ Heart and Stroke Foundation_files/chickenbowl.png"
-                                    alt="Bowl of chicken and vegetables.">
+                                <!--img src="./Healthy eating _ Heart and Stroke Foundation_files/chickenbowl.png"                            
+                                    alt="Bowl of chicken and vegetables."-->  
+                                    <picture>                                    
+                                        <source media="(min-width:320px)" srcset="./Healthy eating _ Heart and Stroke Foundation_files/chickenbowl.png">
+                                        <img src="img/chickenbowlportrait.png"  alt="Bowl of chicken and vegetables.">
+                                    </picture>                                                                                                      
                             </a>
                         </figure>
 
